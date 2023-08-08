@@ -1,4 +1,4 @@
-<img width="509" alt="Screenshot 2023-08-08 at 16 46 41" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/9bbcb07b-0081-40c8-8aec-8a17a56cf885"># NAPOT_Application_UI
+# NAPOT_Application_UI
 <h1>NAPOT Application</h1>
 <br><br>
 <h2>Introduction</h2>
@@ -175,8 +175,7 @@ Lecturers can upload the lecture materials to this and also they can download th
 <img width="517" alt="Screenshot 2023-08-08 at 16 45 44" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/bf8d354a-7eb3-4686-aacc-b94649ee7427">
 <img width="504" alt="Screenshot 2023-08-08 at 16 45 57" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/0865b95f-9826-40ce-8533-85712aaf1585">
 <img width="509" alt="Screenshot 2023-08-08 at 16 46 34" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/1908387b-62cc-4111-9430-ff5d2833345d">
-![Uploading Screenshot 202<img width="518" alt="Screenshot 2023-08-08 at 16 46 48" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/860f4d93-15a4-4107-a512-739135088272">
-3-08-08 at 16.46.41.png…]()
+<img width="509" alt="Screenshot 2023-08-08 at 16 46 41" src="https://github.com/Hirankavindu/NAPOT_Application_UI/assets/97301123/9bbcb07b-0081-40c8-8aec-8a17a56cf885">
 
 
 
